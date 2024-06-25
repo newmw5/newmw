@@ -1,1 +1,3 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/whBZPkb/20240516-201137.png" group-title="Sports Channel", T sports Hd
+http://113.212.111.246:8080/hls/col12.m3u8
